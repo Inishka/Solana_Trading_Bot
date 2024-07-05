@@ -53,6 +53,7 @@ Continuously watch for new holders of the Hero token
 Repeat the process: find new wallets trading only in the Hero token, track transactions, buy before they buy, and sell after they sell
 ## Technical Stack
 Node.js: JavaScript runtime environment
+
 Web3.js: Ethereum JavaScript API for interacting with the Ethereum blockchain
 Solana Web3.js: Solana JavaScript API for interacting with the Solana blockchain
 Ethers.js: Ethereum JavaScript library for interacting with the Ethereum blockchain
